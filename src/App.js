@@ -345,7 +345,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--primary-text)" }}
                 >
-                  You can still find {CONFIG.NFT_NAME} on
+                  You can still find {CONFIG.NFT_NAME} on secondary
                 </s.TextDescription>
 
               </>
