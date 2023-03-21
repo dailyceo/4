@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB43d69d9AF0352eD19707d49d2d92ebb2Bc0a2F5",
+  "SCAN_LINK": "https://etherscan.io/address/0xB43d69d9AF0352eD19707d49d2d92ebb2Bc0a2F5",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "ElementAI",
+  "SYMBOL": "ELEMENTAI",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 99900000000000000,
+  "DISPLAY_COST": 0.09990000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/elementai",
+  "SHOW_BACKGROUND": true
+}
