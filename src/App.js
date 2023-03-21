@@ -286,30 +286,13 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Public Mint Mar 21, 13:00 UTC
+              MINT OPEN
             </s.TextDescription>
             <s.SpacerLarge />
 
 
 
 
-            <s.TextDescription
-              style={{
-                textAlign: "center",
-                fontSize: 40,
-                //fontWeight: "bold",
-                color: "var(--primary)",
-              }}
-            >
-              {truncate(
-                new Date(timeRemaining).toLocaleString("en-GB", {
-                  hour: "numeric",
-                  minute: "numeric",
-                  second: "numeric",
-                }),
-                10
-              )}
-            </s.TextDescription>
 
 
 
